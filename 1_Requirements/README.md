@@ -75,7 +75,29 @@ The main menu comprises three options namely:
 -> Exit
 * If ‘1’ is entered, Cricket Score Sheet project asks for the name of new score sheet. When the file is created, a message is displayed on the screen.
 
+
+                                                                     SWOT analysis:
                                                                    
+Strengths:-
+
+* It is very user friendly.
+* Avoid Malpratice.
+* ShowsAccurate Scores.
+* Time compatibility.
+* Reduce Manual errors.
+
+Weakness:-
+
+* Sometimes, It may leads to Server error.
+
+Opportunities:-
+
+* Any of the Previous match scores are alse we are able to view.
+
+Threats:-
+
+* Once we have Entered the values,We can't update those scores any more.
+
 
 	
 
