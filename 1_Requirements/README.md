@@ -7,7 +7,7 @@
 
 
 
-                                                                         REQUIREMENTS
+                                                                     REQUIREMENTS
                                                                          
   HIGH LEVEL REQUIREMENT:-                                                                       
 
@@ -39,7 +39,7 @@ The C source code of this project is very simple and consists of seven user defi
 * void newscoresheet() – to create new score sheet in a new file.
 
 
-                                                                   4 W's and 1 H's of the project:
+                                                              4 W's and 1 H's of the project:
                                                                                     
 1.Why:-
 
@@ -76,7 +76,7 @@ The main menu comprises three options namely:
 * If ‘1’ is entered, Cricket Score Sheet project asks for the name of new score sheet. When the file is created, a message is displayed on the screen.
 
 
-                                                                     SWOT analysis:
+                                                                 SWOT analysis:
                                                                    
 Strengths:-
 
