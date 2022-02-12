@@ -43,9 +43,38 @@ The C source code of this project is very simple and consists of seven user defi
                                                                                     
 1.Why:-
 
-* The Cricket Score Board system will keep posting updated scores and the team line-up during the match. 
+* The Cricket Score Board system will keep posting updated scores and the team line-up during the match.
 * This project software is designed for the advanced scorer to record both professional and recreational cricket.
 * Manage the activities like manual decision making, processing, announcement, scoring data and handling players & team information are very tough process.
+
+
+2.Where:-
+
+* This project can be used in all cricket Competitions.
+* It will be used in both professional and local Matches.
+* It avoids Malpratice in the game.
+
+3.Who:-
+
+* This project is useful to the umpires.
+* It is used for the Authorities Who manages the score and who is resposible for the match.
+
+4.When:-
+
+* When the team is involved in unprofessional behaviour.
+* It is used when we want to  many number of teams and scores manually.
+
+5.How:-
+
+* When the project file of cricket score sheet project is executed, it works by following the steps described below:
+
+First of all the project displays the welcome screen and the screen fades up to display the main menu.
+The main menu comprises three options namely:
+-> New Score Sheet
+-> View Score Sheet
+-> Exit
+* If ‘1’ is entered, Cricket Score Sheet project asks for the name of new score sheet. When the file is created, a message is displayed on the screen.
+
                                                                    
 
 	
