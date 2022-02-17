@@ -2,6 +2,7 @@
     
 
 
+
                                                            INTRODUCTION
 * The Cricket Scorecard Management System is a very simple project which is programmed using c language.
 
