@@ -113,6 +113,16 @@ Threats:-
 * Once we have Entered the values,We can't update those scores any more.
 
 
+                                                                              ARCHITECTURE
+Behavioural Diagram:                                                                              
+                                                                              
+  ![Screenshot (172)](https://user-images.githubusercontent.com/99134470/154549316-24fc739d-c92b-4b00-acf5-f777779b9407.png)
+
+
+Structural Diagram
+![Structural Diagram](https://user-images.githubusercontent.com/99134470/154549678-3be3f31a-2eec-4717-a60e-b554708bb9d1.png)
+
+
 
 
 
