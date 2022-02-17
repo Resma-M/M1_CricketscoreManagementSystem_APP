@@ -124,8 +124,14 @@ Structural Diagram
 
 
 
+                                                           SAMPLE OUTPUT
+                                                           
+                                                           
+![cricket-3](https://user-images.githubusercontent.com/99134470/154550052-3b411932-43ae-4ac4-99f6-194616bc48b7.jpg)
 
+![cricket-2](https://user-images.githubusercontent.com/99134470/154550100-a90cfd0f-3fb3-4c8e-9c6a-7cb768bf8270.jpg)
 
+![output](https://user-images.githubusercontent.com/99134470/154550307-3a89ac40-7c6e-4dab-807f-7c650dc16c72.png)
 
 
 
