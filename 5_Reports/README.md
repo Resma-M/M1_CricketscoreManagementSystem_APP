@@ -1,4 +1,13 @@
-                                                                INTRODUCTION
+            Folder Structure
+Folder	Description
+0_Certificates	             Certificates earned during the course
+1_Requirements	             Documents detailing requirements and research
+2_Architecture	             Behavioural and Structural UML Diagrams(Both High Level and Low Level)
+3_Implemenatation            All code and documentation
+4_Test plan and output	     Documents with test plans and procedures and Output
+5_Report	                   Documentation of whole project
+6_ImagesAndVideos	           Code Execution Images and Videos
+                                                           INTRODUCTION
 * The Cricket Scorecard Management System is a very simple project which is programmed using c language.
 
 * This project uses the method of file handling where the data of runs, name of the players, wickets, strike rates are stored in the file.
