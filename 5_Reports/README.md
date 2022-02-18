@@ -2,11 +2,6 @@
     
 ![Screenshot (170)](https://user-images.githubusercontent.com/99134470/154548441-7c9d591a-405b-45f7-94f7-b6cf950444c7.png)
 
-
-
-
-
-
                                                            INTRODUCTION
 * The Cricket Scorecard Management System is a very simple project which is programmed using c language.
 
@@ -65,14 +60,14 @@ LOW LEVEL REQUIREMENTS:-
 1.Why:-
 
 * The Cricket Score Board system will keep posting updated scores and the team line-up during the match.
-* * Manage the activities like manual decision making, processing, announcement, scoring data and handling players & team information are very tough process.
+* Manage the activities like manual decision making, processing, announcement, scoring data and handling players & team information are very tough process.
 
 2.Where:-
 
 * This project can be used in all cricket Competitions.
 * It will be used in both professional and local Matches.
 * It avoids Malpratice in the game.
-* 
+
 3.Who:-
 
 * This project is useful to the umpires.
@@ -122,14 +117,9 @@ Behavioural Diagram:
 Structural Diagram
 ![Structural Diagram](https://user-images.githubusercontent.com/99134470/154549678-3be3f31a-2eec-4717-a60e-b554708bb9d1.png)
 
-                                     
-
-
-
+                                
                                                            SAMPLE OUTPUT DESIGN
-                                                           
-
-
+                                                          
 ![Screenshot (182)](https://user-images.githubusercontent.com/99134470/154720634-900ee46e-8eff-406e-9625-cb93edccaa63.png)
 
 
