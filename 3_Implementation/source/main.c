@@ -4,7 +4,7 @@
 #include"menu.h"
 #include"newscoresheet.h"
 #include"filing.h"
-#include"final.h"
+#include"final.c"
 int main()
 {
     system("color f1");
