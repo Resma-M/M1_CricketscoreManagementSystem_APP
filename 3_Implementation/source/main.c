@@ -30,7 +30,7 @@ int main()
             getch();
             case '3':
             system ("cls");
-            exit(0);
+            
         }
         void printt()
 {
